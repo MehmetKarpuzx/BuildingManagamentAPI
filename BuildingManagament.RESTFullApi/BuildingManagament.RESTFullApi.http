@@ -1,0 +1,6 @@
+@BuildingManagament.RESTFullApi_HostAddress = http://localhost:5271
+
+GET {{BuildingManagament.RESTFullApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
