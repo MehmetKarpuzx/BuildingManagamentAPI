@@ -18,4 +18,8 @@
     <Folder Include="UserDTOs\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BuildingManagament.Domain\BuildingManagament.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
